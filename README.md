@@ -1,51 +1,53 @@
-# Moses Odunga — Security & Infrastructure Engineer
+# Moses Odunga — Security Business Unit Lead
 
-👋 I'm Moses, Security Business Unit Lead at **Dolphin Professional Services Limited (DPSL)**, based in Dar es Salaam, Tanzania. I focus on enterprise security architecture, infrastructure engineering, and cloud-native solutions across East and Central Africa.
+👋 I'm Moses, Security Business Unit Lead at **Dolphin Professional Services Limited (DPSL)**, a Cisco Premier Integrator based in Dar es Salaam, Tanzania. I spend most of my time hands-on: designing, deploying and supporting network security and enterprise infrastructure for banks, government agencies and enterprises across East and Central Africa.
 
 ## What I Do
 
-**At DPSL:** I lead the Security BU's transition toward advisory and outcome-based security engagements. This means designing and deploying enterprise-grade security infrastructure, managing complex infrastructure projects, and building strategic vendor relationships across the region.
+**At DPSL:** I run the Security BU and stay close to delivery. That covers solution design and deployment for firewalls, NAC and secure networks, technical proposals and bids, vendor relationships, Microsoft 365 managed services, and mentoring the engineers coming up behind me.
 
-**Personally:** I run **Moxplosion** and **OGIMS Chem Limited** on the side, exploring fintech, infrastructure automation, and solutions for the East Africa ICT market.
+**Personally:** I run **Moxplosion** and work with **OGIMS Chem Limited**, exploring infrastructure automation and solutions for the East Africa ICT market.
+
+## Certifications
+
+Cisco CCNP Enterprise · Cisco CCNA (Routing & Switching) · Cisco CyberOps Associate · Fortinet NSE 3
 
 ## Technical Skills
 
-**Security & Firewalls**  
-Sophos XGS (deployment, hardening, VPN tunneling), Fortinet FortiGate, Cisco ASA, network segmentation, IPsec VPN architecture, site-to-site tunneling, security policy implementation
+**Network Security & Firewalls**  
+Cisco ASA, Cisco ISE (NAC, 802.1X, posture), Fortinet FortiGate, Sophos XGS (deployment, hardening, VPN), network segmentation, IPsec and site-to-site VPN architecture, security policy implementation
 
-**Infrastructure & Cloud**  
-Kubernetes (K3s, Platform9 Managed Kubernetes), containerization, infrastructure-as-code (Ansible, Terraform), Ubuntu/Linux administration, system hardening, homelab infrastructure design
+**Enterprise Networking**  
+Cisco routing & switching, BGP/VXLAN data centre fabrics, Arista EOS, Huawei CloudEngine, network design & troubleshooting, DNS/rDNS configuration
 
 **Security Operations**  
-SIEM platforms (Gurucul), endpoint detection & response (EDR), vulnerability assessment & penetration testing (VAPT), compliance and hardening frameworks, security architecture
+SIEM platforms (Gurucul), endpoint detection & response (EDR), vulnerability assessment & penetration testing (VAPT), mobile application security testing, compliance and hardening frameworks
 
-**Enterprise Solutions**  
-ManageEngine (Patch Manager Plus, Ops Manager), Delinea Secret Server, PingOne Advanced Identity Cloud (IAM), CyberArk integration, PAM implementation
+**Identity & Privileged Access**  
+Delinea Secret Server, CyberArk integration, PingOne Advanced Identity Cloud, PAM implementation, ManageEngine (Patch Manager Plus, OpManager)
 
-**Networking**  
-BGP/VXLAN data centre fabrics, Arista EOS, Huawei CloudEngine, network design & troubleshooting, DNS/rDNS configuration, mail server infrastructure (Exim, Microsoft 365)
+**Microsoft 365 & Collaboration**  
+Microsoft 365 tenant administration and managed services, Exchange Online and mail infrastructure (Exim), Microsoft Teams, Cisco Webex, Zoom, Huawei and Logitech room systems
 
-**Full-Stack Development**  
-React, Node.js, Firebase, Python scripting & automation, RESTful API design, deployment pipelines, automation and DevOps practices
+**Infrastructure & Automation**  
+Kubernetes (K3s, Platform9 Managed Kubernetes), Incus containers, Ansible, Terraform, Ubuntu/Linux administration and hardening, Python scripting
 
-**Additional**  
-Vendor management and strategic partnerships, East Africa ICT market insights, proposal & technical documentation, team mentoring and knowledge transfer
+**Development**  
+React, Node.js, Firebase, RESTful APIs, deployment pipelines
 
 ## Current Projects
 
-- **DPSL Security & Infrastructure:** Enterprise deployments, MSS architecture, East Africa market expansion
+- **DPSL Security & Infrastructure:** NAC, firewall and secure network deployments, managed security and M365 services, regional expansion
 - **Homelab:** K3s clusters, Platform9 Private Cloud, Incus containers, infrastructure experimentation
 - **East Africa ICT:** Building knowledge resources and vendor networks for the regional market
 
 ## Let's Connect
 
-📧 **Email:** moses@moxplosion.co.tz  
-🌐 **Website:** https://www.moxplosion.co.tz  
-💼 **LinkedIn:** [Moses Odunga](https://www.linkedin.com/in/moses-odunga-47072b36/)  
-📍 **Location:** Dar es Salaam, Tanzania
+📧 Email: moses@moxplosion.co.tz  
+🌐 Website: https://www.moxplosion.co.tz  
+💼 LinkedIn: [Moses Odunga](https://www.linkedin.com/in/moses-odunga-47072b36/)  
+📍 Location: Dar es Salaam, Tanzania
 
-I'm interested in security engineering, infrastructure automation, DevSecOps, and open-source contributions. If you're working on something in these areas—or have connections in the East Africa ICT space—let's talk.
+I'm interested in security engineering, infrastructure automation, DevSecOps and open-source work. If you're working in these areas, or in the East Africa ICT space, get in touch.
 
----
-
-*Last updated: 2025 | Actively learning, building, and shipping.*
+*Last updated: October 2026*
